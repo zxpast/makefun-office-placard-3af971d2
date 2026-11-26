@@ -1,8 +1,12 @@
 # Office Artifacts: The One-Line Placard
 
-[![make.fun](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/competitions/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/zxpast/makefun-office-placard-3af971d2/rank.svg)](https://make.fun/competitions/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/zxpast/makefun-office-placard-3af971d2/reward.svg)](https://make.fun/competitions/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![make.fun · u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/zxpast/makefun-office-placard-3af971d2/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/zxpast/makefun-office-placard-3af971d2/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+
+**Referral code: `6hmpy1rq`**
+
+Bounty: [Office Artifacts: The One-Line Placard Contest](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 
 A make.fun entry for **Office Artifacts: The One-Line Placard Contest**
 (`u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2`).
@@ -22,3 +26,9 @@ The joke: the microwave is catalogued like a dug-up relic — date,
 material, donor — and the twist lands in the last words: its priests
 warmed offerings in ninety seconds but never once stopped the rite at
 one, the way nobody ever lets a microwave finish its final second.
+
+## Run it
+
+```sh
+node main.ts
+```
